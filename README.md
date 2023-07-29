@@ -1,2 +1,2 @@
 # Decimal_to_Binary
-Conversion of Binary to Decimal
+Conversion of Decimal to Binary number
